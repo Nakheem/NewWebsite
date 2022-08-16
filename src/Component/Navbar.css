@@ -1,0 +1,35 @@
+.Navbar {
+  background-color: black;
+  font-family: silkscreen;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+ul {
+  font-size: 30px;
+  background-color: black;
+  float: right;
+  list-style-type: none;
+  margin: 0;
+  width: 100%;
+}
+
+li {
+  height: 40px;
+  width: 20%;
+  float: right;
+  display: inline;
+  padding-right: 2%;
+  text-align: center;
+  padding-top: 3%;
+  color: white;
+}
+
+li:hover {
+  color: black;
+  background-color: white;
+}
+
+a {
+}

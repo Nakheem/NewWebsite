@@ -1,0 +1,16 @@
+.Header {
+  padding: 5%;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+#Title {
+  color: #e6f7ff;
+  font-family: silkscreen;
+}
+
+#Role {
+  font-size: 20px;
+  font-family: silkscreen;
+}
